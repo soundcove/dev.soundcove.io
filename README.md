@@ -16,10 +16,3 @@ You can get documentation from [our development website](http://dev.soundcove.io
 ## Website
 You can get more information at our website: http://dev.soundcove.io
 
-## Credits
-| ![seanc][avatar] |
-|:---:|
-| [Sean Wilson][github] |
-
-  [avatar]: https://avatars.githubusercontent.com/u/13725538?v=3&s=125
-  [github]: https://github.com/seanc
