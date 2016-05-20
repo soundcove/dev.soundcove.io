@@ -5,7 +5,9 @@ This repository is for the development of SoundCove.  We have documentation, flo
 You can get documentation from [our development website](http://dev.soundcove.io) or from [`docs/`](docs/)
 
 ## Charts
- - [Web Service Flow](charts/service-flow-1.png)
+ - [Full Service Flow](charts/service-flow-2.png)
+
+See all charts in [`charts/`](charts/).
 
 ## Discussion
  - [Open or browse issues](https://github.com/soundcove/development/issues) on this repository.
